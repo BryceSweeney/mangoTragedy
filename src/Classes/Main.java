@@ -19,6 +19,7 @@ import Classes.Trajectory.TrajectoryNode;
 import Classes.Trajectory.TrajectoryPoint;
 
 public class Main {
+        @
         public static void main(String[] args) throws NodeTimeException, JSONException, IOException {
         Scanner keyboard = new Scanner(System.in);
         ArrayList<TrajectoryNode> trajectoryNodeList = new ArrayList<>();
